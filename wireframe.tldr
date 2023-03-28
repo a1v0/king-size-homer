@@ -21,7 +21,7 @@
             ],
             "size": [
               874.6,
-              512.8
+              541.81
             ],
             "rotation": 0,
             "style": {
@@ -49,7 +49,7 @@
             ],
             "size": [
               317.4,
-              509
+              545.34
             ],
             "rotation": 0,
             "style": {
@@ -446,6 +446,62 @@
               "scale": 1
             },
             "label": "Fake ads\n(optional)",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "c4fea60e-04d6-48a0-2516-5dd9ed3ef099": {
+            "id": "c4fea60e-04d6-48a0-2516-5dd9ed3ef099",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 14,
+            "point": [
+              241.1,
+              1782.32
+            ],
+            "size": [
+              840.79,
+              34.9
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "Footer w/ GitHub links etc.",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "16431bf0-cff0-47cc-2aa3-ae4991916dd1": {
+            "id": "16431bf0-cff0-47cc-2aa3-ae4991916dd1",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 15,
+            "point": [
+              -87.98,
+              1785.8
+            ],
+            "size": [
+              273.39,
+              37.04
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "Footer w/ GitHub links etc.",
             "labelPoint": [
               0.5,
               0.5
