@@ -6,8 +6,9 @@ I will be writing it using Svelte and TypeScript.
 
 ## To-do
 
-1. Set up TS and Svelte
-1. Draw wireframe and plan in more detail
+1. ~~Set up TS and Svelte~~
+1. ~~Draw wireframe and plan in more detail~~
+1. ~~Set up Prettier~~
 1. ...
 
 ## Svelte's README
@@ -27,7 +28,7 @@ npx degit sveltejs/template svelte-app
 cd svelte-app
 ```
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+_Note that you will need to have [Node.js](https://nodejs.org) installed._
 
 ## Get started
 
