@@ -7,9 +7,14 @@ I will be writing it using Svelte and TypeScript.
 ## To-do
 
 1. ~~Set up TS and Svelte~~
-1. ~~Draw wireframe and plan in more detail~~
-1. ~~Set up Prettier~~
-1. ...
+2. ~~Draw wireframe and plan in more detail~~
+3. ~~Set up Prettier~~
+4. Create page outlines with basic styling for mobile
+5. Create page outlines with basic styling for web
+6. Design keyboard
+7. Create script to run the code
+8. Add ads
+9. ...
 
 ## Svelte's README
 
