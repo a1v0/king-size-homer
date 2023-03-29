@@ -9,7 +9,7 @@ I will be writing it using Svelte and TypeScript.
 1. ~~Set up TS and Svelte~~
 2. ~~Draw wireframe and plan in more detail~~
 3. ~~Set up Prettier~~
-4. Create page outlines with basic styling for mobile
+4. ~~Create page outlines with basic styling for mobile~~
 5. Create page outlines with basic styling for web
 6. Design keyboard
 7. Create script to run the code

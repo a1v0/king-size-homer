@@ -1,0 +1,10 @@
+<footer>
+    <h2>Footer</h2>
+    <p>Copyright &copy; 2023 <a href="https://github.com/a1v0">a1v0</a>.</p>
+</footer>
+
+<style>
+    footer {
+        background-color: purple;
+    }
+</style>
