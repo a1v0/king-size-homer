@@ -1,8 +1,20 @@
 # King-Size Homer
 
-Web app that, for the time being, simulates Homer Simpson's work-from-home computer terminal, as seen in the Season 7 episode of _The Simpsons_, "King-Size Homer".
+Simple game based on Homer Simpson's work-from-home computer terminal, as seen in the Season 7 episode of _The Simpsons_, "King-Size Homer".
 
 I will be writing it using Svelte and TypeScript.
+
+Due to me being new to the whole HTML canvas game thing, this game won't have a mobile-friendly version (for now).
+
+## General concept
+
+The bird bobs down when the player "presses the Any key", while the `Y` and `N` keys move from left to right independently, bumping into each other, thereby reversing direction.
+
+The aim is to press `Y` every time. If one accidentally presses `N`, the text on the screen changes to something like "Venting prevents explosion. Are you sure you want to avoid it?", thereby making `N` the correct answer until the text changes back to default. You lose if you press `Y` at this point.
+
+There will be some points scored along the way, and probably some increasing of speed of the letters as the game progresses.
+
+**Potential special features:** a third key appears sometimes, called Tab, which you can peck to earn bonus points.
 
 ## To-do
 
@@ -11,10 +23,18 @@ I will be writing it using Svelte and TypeScript.
 3. ~~Set up Prettier~~
 4. ~~Create page outlines with basic styling for mobile~~
 5. Create page outlines with basic styling for web
-6. Design keyboard
-7. Create script to run the code
-8. Add ads
-9. ...
+6. Plan exact gameplay design
+7. Draw static canvas (is this a good first step?)
+8. Animate bird on press of any key
+9. Make `Y` and `N` keys move
+10. Make keys bump into each other
+11. Combine on-demand bird movement with moving keys
+12. Update score when player hits correct key
+13. Display score on screen
+14. Change text when `N` is pressed
+15. Create Start screen, as well as Pause screen and Game Over screens
+16. Add ads
+17. ...
 
 ## Svelte's README
 
