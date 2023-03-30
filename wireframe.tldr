@@ -21,7 +21,7 @@
             ],
             "size": [
               874.6,
-              512.8
+              541.81
             ],
             "rotation": 0,
             "style": {
@@ -49,7 +49,7 @@
             ],
             "size": [
               317.4,
-              509
+              545.34
             ],
             "rotation": 0,
             "style": {
@@ -389,7 +389,7 @@
               "dash": "draw",
               "scale": 1
             },
-            "label": "Interactive keyboard",
+            "label": "\"Playing field\", i.e. where the keys move about",
             "labelPoint": [
               0.5,
               0.5
@@ -446,6 +446,171 @@
               "scale": 1
             },
             "label": "Fake ads\n(optional)",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "c4fea60e-04d6-48a0-2516-5dd9ed3ef099": {
+            "id": "c4fea60e-04d6-48a0-2516-5dd9ed3ef099",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 14,
+            "point": [
+              241.1,
+              1782.32
+            ],
+            "size": [
+              840.79,
+              34.9
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "Footer w/ GitHub links etc.",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "16431bf0-cff0-47cc-2aa3-ae4991916dd1": {
+            "id": "16431bf0-cff0-47cc-2aa3-ae4991916dd1",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 15,
+            "point": [
+              -87.98,
+              1785.8
+            ],
+            "size": [
+              273.39,
+              37.04
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "Footer w/ GitHub links etc.",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "cc7e6a22-417c-402e-1826-03dceb294c92": {
+            "id": "cc7e6a22-417c-402e-1826-03dceb294c92",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "page",
+            "childIndex": 16,
+            "point": [
+              -144.90271721660764,
+              1253.4035076931243,
+              0.5
+            ],
+            "rotation": 0,
+            "bend": 0.000007236730262890308,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  391.5,
+                  622.67
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  195.75,
+                  311.33
+                ]
+              }
+            },
+            "decorations": {},
+            "style": {
+              "color": "red",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "8e17e99c-a4f8-47a7-10aa-1aa07b272761": {
+            "id": "8e17e99c-a4f8-47a7-10aa-1aa07b272761",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "page",
+            "childIndex": 17,
+            "point": [
+              -141.85,
+              1187.13
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  332.26,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  0,
+                  720.7
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  166.13,
+                  360.35
+                ]
+              }
+            },
+            "decorations": {},
+            "style": {
+              "color": "red",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
             "labelPoint": [
               0.5,
               0.5
