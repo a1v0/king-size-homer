@@ -22,7 +22,7 @@ There will be some points scored along the way, and probably some increasing of 
 2. ~~Draw wireframe and plan in more detail~~
 3. ~~Set up Prettier~~
 4. ~~Create page outlines with basic styling for mobile~~
-5. Create page outlines with basic styling for web
+5. ~~Create page outlines with basic styling for web~~
 6. Plan exact gameplay design
 7. Draw static canvas (is this a good first step?)
 8. Animate bird on press of any key
